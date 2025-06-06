@@ -91,7 +91,7 @@ The architecture of the Contract Analysis System is designed for modularity, sca
 
 The following diagram illustrates the high-level architecture and data flow of the system:
 
-![System architecture of the Contract Analysis System. The diagram shows the flow from document ingestion, through processing and analysis, to reporting and user interface.](architecture.png)
+!(architecture.png)
 
 _Figure: High-level architecture of the Contract Analysis System._
 
